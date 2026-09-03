@@ -1,4 +1,4 @@
-### Hi, I'm Susan 👋
+### Hi, I'm Susanleah 👋
 
 Junior ML Engineer with a background in actuarial science and applied statistics, currently completing an MSc in Data Science at the University of Nairobi. I build explainable machine learning systems — from fraud detection to credit risk — that hold up to real scrutiny, not just leaderboard metrics.
 
